@@ -620,10 +620,7 @@
                   "type": "string"
                 },
                 "image": {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
+                  "type": "string"
                 },
                 "category": {
                   "type": "string"
