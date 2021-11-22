@@ -625,7 +625,7 @@
                     "type": "string"
                   }
                 },
-                "categories": {
+                "category": {
                   "type": "string"
                 },
                 "published_at": {
