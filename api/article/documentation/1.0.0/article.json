@@ -609,7 +609,7 @@
               }
             }
           },
-          "category": {
+          "categories": {
             "required": [
               "id",
               "image"
@@ -667,7 +667,7 @@
           "content": {
             "type": "string"
           },
-          "category": {
+          "categories": {
             "type": "string"
           },
           "published_at": {

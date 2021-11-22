@@ -38,7 +38,7 @@
       "required": true,
       "pluginOptions": {}
     },
-    "category": {
+    "categories": {
       "model": "categories",
       "via": "articles"
     }
